@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-nomic
+langgraph
+langsmith
+nomic
+tavily-python
+scikit-learn
+typing-extensions
