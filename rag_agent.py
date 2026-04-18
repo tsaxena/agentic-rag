@@ -278,7 +278,7 @@ def predict_custom_agent_answer(example: dict):
 
 
 if __name__ == "__main__":
-    
+
     example = {"input": "What are the types of agent memory?"}
     response = predict_custom_agent_answer(example)
     print(response)
